@@ -15,6 +15,8 @@ public class Principal {
         System.out.println(oper.multiplicar(valor1, valor2));
         System.out.print("El resultado de dividir valor1 entre valor2 es ");
         System.out.println(oper.dividir(valor1, valor2));
+        System.out.print("El resultado de sumar valor1 entre valor2 es ");
+        System.out.println(oper.sumar(valor1, valor2));
     }
     
 }
